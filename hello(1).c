@@ -1,5 +1,5 @@
 /**
- * Author: Han Ang & Kaleab Amare Mengistu
+ * Author: Han Ang
  * Date: 2019/01/15
  *
  * A simple hello world program in C
@@ -10,7 +10,7 @@
 
 int main(int argc, char **argv) {
 
-  printf("Han Ang & Kaleab Amare Mengistu\n");
+  printf("Han Ang ");
 
   return 0;
 }
